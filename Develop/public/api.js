@@ -1,3 +1,6 @@
+module.exports = function (app, express)
+
+{
 const API = {
   async getLastWorkout() {
     let res;
@@ -42,3 +45,5 @@ const API = {
     return json;
   },
 };
+
+}
