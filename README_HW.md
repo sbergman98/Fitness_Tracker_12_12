@@ -9,3 +9,11 @@ Turned server on
 Added excercise route in server.js
 
 Added stats route in server.js
+
+Installed mongoDB
+
+Added mongoDB code to workout.js
+
+Re started server, test functionality of APP
+
+Add Heroku code to server.js
